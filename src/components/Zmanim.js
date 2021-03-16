@@ -35,7 +35,7 @@ class Myzman extends React.Component {
           this.setState({
             parsha: `This weeks parsha is,  ${zman[1].hebrew}`,
             candle: zman[0].title,
-            havdalah: `Motzei shabbos Arvit ${havdalaha}`,
+            havdalah: `Motzei shabbos Arvit,  ${havdalaha}`,
           })
         }
 
