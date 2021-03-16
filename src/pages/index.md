@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/avhat.jpeg
     image_alt: App preview
-    title: This Is A Test
+    title: Ahavat Shalom Synagogue
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
