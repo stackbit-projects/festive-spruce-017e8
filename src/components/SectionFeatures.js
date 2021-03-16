@@ -12,7 +12,7 @@ export default class SectionFeatures extends React.Component {
         return (
             <section id={_.get(section, 'section_id', null)} className={'block features-block bg-' + _.get(section, 'background', null) + ' outer'}>
                 < Myzman />
-                <div></div>
+                <div><br/></div>
               <div className="block-header inner-small">
                 {_.get(section, 'title', null) && (
                 <h2 className="block-title">{_.get(section, 'title', null)}</h2>
