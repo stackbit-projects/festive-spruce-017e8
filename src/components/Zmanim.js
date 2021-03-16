@@ -45,7 +45,7 @@ class Myzman extends React.Component {
 
   render() {
     return (
-      <div className="col-4" style={{textAlign: 'center'}}>
+      <div className="zman" style={{textAlign: 'center'}}>
         {/* {this.state.loading != true ? console.log("error ")
       :   */}
         <h2>Great Neck Zmanim</h2>
