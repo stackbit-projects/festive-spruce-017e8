@@ -47,6 +47,7 @@ export default class SectionFeatures extends React.Component {
                 ))}
                 </div>
               )}
+              
             </section>
         );
     }
