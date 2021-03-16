@@ -6,9 +6,11 @@ sections:
     image: images/avhat.jpeg
     image_alt: App preview
     title: Ahavat Shalom Synagogue
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Our community is shaped by the active participation of our members – from
+      young families to members with synagogue roots dating back decades – who
+      find that getting involved in the synagogue enriches the overall Ahavat
+      Shalom Synagogue experience for themselves as well as their families.
     actions:
       - label: Learn More
         url: /features
