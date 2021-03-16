@@ -28,7 +28,7 @@ class Myzman extends React.Component {
             candle: zman[1].title,
             yomtov: yomtova,
             havdalah: `No melacha maybe done before ${havdalah}`,
-            Motzei: `Marriv  ${zman[5].title}`,
+            Motzei: `Arvit  ${zman[5].title}`,
           })
         } else {
           let havdalaha = zman[2].title
